@@ -10,7 +10,7 @@ namespace NLog_Project
             Console.WriteLine("Enter 2 numbers");
             int first_number = Convert.ToInt32(Console.ReadLine());
             int second_number = Convert.ToInt32(Console.ReadLine());
-            Substract.sub(first_number,second_number);
+            Substract.Sub(first_number,second_number);
         }
     }
 }

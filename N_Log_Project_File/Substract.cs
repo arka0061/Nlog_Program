@@ -4,7 +4,7 @@ namespace NLog_Project
 	public class Substract
 	{
 		static NLog nlog = new NLog();
-		public static int sub(int first_number, int second_number)
+		public static int Sub(int first_number, int second_number)
 		{
 			if (first_number == 0 || second_number == 0)
 			{
